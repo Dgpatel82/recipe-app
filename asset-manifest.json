@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dgpatel82/recipe-app/static/css/main.129f6fb5.chunk.css",
+    "main.js": "/Dgpatel82/recipe-app/static/js/main.07c60ed8.chunk.js",
+    "main.js.map": "/Dgpatel82/recipe-app/static/js/main.07c60ed8.chunk.js.map",
+    "runtime-main.js": "/Dgpatel82/recipe-app/static/js/runtime-main.e4a16bb8.js",
+    "runtime-main.js.map": "/Dgpatel82/recipe-app/static/js/runtime-main.e4a16bb8.js.map",
+    "static/js/2.9069b3e5.chunk.js": "/Dgpatel82/recipe-app/static/js/2.9069b3e5.chunk.js",
+    "static/js/2.9069b3e5.chunk.js.map": "/Dgpatel82/recipe-app/static/js/2.9069b3e5.chunk.js.map",
+    "index.html": "/Dgpatel82/recipe-app/index.html",
+    "precache-manifest.5c1583479f74498f34698034e4d07b3f.js": "/Dgpatel82/recipe-app/precache-manifest.5c1583479f74498f34698034e4d07b3f.js",
+    "service-worker.js": "/Dgpatel82/recipe-app/service-worker.js",
+    "static/css/main.129f6fb5.chunk.css.map": "/Dgpatel82/recipe-app/static/css/main.129f6fb5.chunk.css.map",
+    "static/js/2.9069b3e5.chunk.js.LICENSE.txt": "/Dgpatel82/recipe-app/static/js/2.9069b3e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4a16bb8.js",
+    "static/js/2.9069b3e5.chunk.js",
+    "static/css/main.129f6fb5.chunk.css",
+    "static/js/main.07c60ed8.chunk.js"
+  ]
+}
